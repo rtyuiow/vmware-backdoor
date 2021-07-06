@@ -46,4 +46,4 @@ extern "C" int32_t DriverEntry()
 }
 ```
 
-<img height="348" src="https://i.imgur.com/OHUClOq.png">
+<img height="348" src="https://github.com/rtyuiow/vmware-backdoor/blob/master/aa.png">
